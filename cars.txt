@@ -1,0 +1,2 @@
+Registration Number: 'CJ-98-FDT', Owner Name: 'Popescu Mihai', Brand: 'Audi', Color: 'red', Fabrication Year: 2005, Problem Details: ?
+Registration Number: 'SM-06-JJJ', Owner Name: 'Crisan Mihaela', Brand: 'BMW', Color: 'black', Fabrication Year: 2023, Problem Details: OIL_CHANGE
